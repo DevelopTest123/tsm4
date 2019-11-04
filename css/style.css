@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5,
   border-width: 2px; }
 
 .text-black {
-  color: #FFF !important; }
+  color: #000 !important; }
 
 .bg-black {
   background: #000 !important; }
